@@ -1,0 +1,30 @@
+body{background-color:rgba(64, 129, 109, 0.692);font-family:Arial, Helvetica, sans-serif}
+header{background-color:white;text-align: center}
+header a{padding-left:10px;padding-right:50px}
+header nav{text-align:center;background-color:rgb(85, 149, 197)}
+header nav a.current{background-color:rgba(255, 255, 255, 0.425)}
+header nav a{text-decoration:none;color:black;background-color:rgb(85, 149, 197);font-size:25px;font-weight:bold;padding-left:20px;padding-right:20px}
+article{background-color:rgba(230, 255, 252, 0.897);margin-left:70px;margin-right:70px;padding:20px}
+article p{font-size:20px;margin-left:10px;}
+article img{display: block;margin: auto;border:solid black 5px;}
+article a{text-decoration:none;color:rgb(0, 164, 240);font-size:25px;font-weight:bold}
+figcaption{text-align:center;font-size:10px}
+h2{text-align:center;font-weight:bold}
+aside{background-color:rgba(255, 255, 255, 0.651)}
+aside h4{text-align:center;background-color:rgba(81, 153, 135, 0.685);}
+aside details summary{color:rgb(0, 164, 240)}
+#board1{display:inline-block;position: relative;}
+#board2{display:inline-block;position: relative;}
+#board3{display:inline-block;position: relative;}
+#board4{display:inline-block;position: relative;}
+#acc1{display:inline-block;position: relative;}
+#acc2{display:inline-block;position: relative;}
+#acc3{display:inline-block;position: relative;}
+figure p{font-size:10px}
+#email{font-size:20px}
+#phasemap{float:right;margin:10px}
+#covform{text-align:left;margin:auto;padding-left:20%;padding-right:30%;background-color:rgba(230, 255, 252, 0.897)}
+#covenant{text-align:center}
+
+
+footer{text-align:center;font-size:20px;padding-bottom:40px}

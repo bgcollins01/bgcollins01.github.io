@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Bonnie Collins -- Website Designer
+
+# THANKS
+
+    To my professor for giving me the opprotunity to do this!
+    Prairie Fields Home Owners Association for letting me use their assets for this project.
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
